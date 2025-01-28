@@ -1,0 +1,2 @@
+# Client-Server-Architecture-File-Transfer-System
+ This project demonstrates a custom-designed client-server file transfer system using Inter-Process Communication (IPC) via named FIFOs (First In, First Out). The system is capable of transferring files from a client to a server, ensuring proper serialization and deserialization of file contents while maintaining error handling and process synchronization.
